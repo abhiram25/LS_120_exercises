@@ -8,9 +8,9 @@
 # We use them if we want other class to use a specific behavior
 
 module Introduce
-	def introduce(intro)
-		puts "#{intro}"
-	end
+  def introduce(intro)
+    puts "#{intro}"
+  end
 end
 
 class Name
